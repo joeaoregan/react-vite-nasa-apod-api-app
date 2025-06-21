@@ -9,6 +9,8 @@ NASA APOD API (Astronomy Picture of the Day)
 * Style react app
 * Cache data in react project
 
+[See App Deployed on GitHub Pages](https://joeaoregan.github.io/react-vite-nasa-apod-api-app/)
+
 Using this tutorial:
 
 [Build a Space Website w. React.JS & the NASA API](https://www.youtube.com/watch?v=5Gf6grFgoG8)
