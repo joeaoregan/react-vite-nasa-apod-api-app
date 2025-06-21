@@ -17,7 +17,7 @@ Using this tutorial:
 
 [Font Awesome](https://fontawesome.com/)  
 [CDNJS Font Awesome](https://cdnjs.com/libraries/font-awesome/6.5.1)  
-[Deploying a React App* to GitHub Pages](https://github.com/gitname/react-gh-pages)
+[Deploy Vite React App to GitHub Pages (2024)](https://www.youtube.com/watch?v=Bk28snjHr7c)
 
 # React + Vite
 
